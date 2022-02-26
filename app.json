@@ -1,0 +1,6 @@
+{
+  "name": "Pencil BE",
+  "description": "Questions & Annotations",
+  "repository": "https://github.com/SafaldeepSingh/Pencil-BE",
+  "keywords": ["node", "express", "mongodb"]
+}
